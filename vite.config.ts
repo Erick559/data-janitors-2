@@ -10,5 +10,5 @@ export default defineConfig({
   //     "@": path.resolve(__dirname, "./src"),
   //   },
   // },
-  base:'/data-janitor-2/',
+  base:'/data-janitors-2/',
 })
